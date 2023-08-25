@@ -1,5 +1,5 @@
 # Aspiring Machine Learning Scientist
-
+Email: [kadimasha123@gmail.com](kadimasha123@gmail.com)
 #### Technical Skills: Python, Azure, Docker, R, SAS, SQL
 
 ## Education 			        		
