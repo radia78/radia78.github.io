@@ -13,7 +13,7 @@
 - Collaborated with other analysts to communicate our findings and document the analysis methodology so clients can understand the internal process of the project and justify their policy decisions.
 
 ## Projects
-### [Transformer 2 - Ongoing](https://github.com/radia78/Transformer2/blob/main/README.md)
+### [Transformer 2](https://github.com/radia78/Transformer2/blob/main/README.md)
 Updated the original Transformer architecture to integrate recent SOTA methods from the last few years. The aim of the project is to observe what the recent SOTA methods have to offer in improving the original Transformers at Machine Translation Tasks. The model was created using the **PyTorch** framework, the dataset and tokenizer was built using the **HuggingFace** API, and the model was trained on a compute engine from Google Cloud.
 
 ### [Open Source Muse - Ongoing](https://github.com/anishganti/muse)
