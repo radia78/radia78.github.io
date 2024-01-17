@@ -1,20 +1,6 @@
-# Aspiring Machine Learning Scientist
+# Projects
+## [Transformer 2](https://github.com/radia78/Transformer2/blob/main/README.md)
+Updated the original transformers with the latest state-of-the-art components such as RMSNorm, Rotary Positional Embedding, and SwiGLU activation function. Increased the performance of the model on German-to-English machine translation by **3%** from the original model.
 
-#### Technical Skills: Python, Google Cloud, Docker, R, SAS, SQL
-
-## Education 			        		
-- B.S., Economics | University of Michigan, Ann Arbor
-- A.A., Economics | Green River College
-
-## Work Experience
-**Statistical Programmer @ Acumen LLC (_June 2022 - Present_)**
-- Conducted statistical analyses on Medicaid claims data and use our results to make policy recommendations for federal clients, such as DOJ and MACPAC, ensuring that they make data-driven decisions.
-- Developed and maintained a library of SAS and Python programs for data processing, data-validation, and deliverables-generation to increase efficiency in the project workflow by reducing the number of new codes needed to be written, saving hundreds of hours in development time.
-- Collaborated with other analysts to communicate our findings and document the analysis methodology so clients can understand the internal process of the project and justify their policy decisions.
-
-## Projects
-### [Transformer 2](https://github.com/radia78/Transformer2/blob/main/README.md)
-Updated the original Transformer architecture to integrate recent SOTA methods from the last few years. The model outperformed the original architecture on German to Enlgish machine translation by achieving a BLEU score of **28.1**. The score is relatively close with the larger model's score of **28.4** but achieves it with **150 million less parameters**. The model was created using the **PyTorch** framework, the dataset and tokenizer was built using the **HuggingFace** API, and the model was trained on a compute engine from Google Cloud for 3.4 days.
-
-### [Open Source Muse - Ongoing](https://github.com/anishganti/muse)
-With the RoundTable ML group, we are implementing Google's Muse model, one of the few transformers based Text-to-Image generators. Google reported that the speed of creating images based on prompts is one of the fastest at the moment. Unfortunately Google did not release their code, so our aim is to recreate Google's model and make it publicly available. We differ from most implementations through our multi-axis self-attention mechanism, **reducing the computation time for the specific block from $O(n^2)$ to $O(\sqrt{n})$**.
+## [Open Source Muse - Ongoing](https://github.com/anishganti/muse)
+Collaborated with RoundtableML to create an open-source implementation of Google's text-to-image Muse model. Differed from most implementation by using multi-axis attention on the large resolution model and reducing computation time from $O(n^{2})$ to $O(n)$.
