@@ -4,8 +4,7 @@ title: Projects.
 permalink: /projects/
 ---
 
-![Project Image](path/to/your/image.jpg){: style="width: 200px; height: 200px; border: 2px solid #000; margin-right: 20px;"}
-# Transformer 2
+![image](path-to-image.jpg){: style="float: left"}
 Updated the original transformers with the latest state-of-the-art components such as RMSNorm, Rotary Positional Embedding, and SwiGLU activation   function. Increased the performance of the model on German-to-English machine translation by **3%** from the original model and simultaneously reduced the parameter size of the model by **3%**.
 
 # [Real Time Semantic Segmentation](https://github.com/radia78/Object-Segmentation)
