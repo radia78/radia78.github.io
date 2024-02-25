@@ -1,2 +1,1 @@
-# About
-# Biography
+Insert a story about me
