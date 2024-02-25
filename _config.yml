@@ -1,4 +1,12 @@
 title: Radi Akbar
-theme: jekyll-theme-minimal
-email: kadimasha123@gmail.com
-description: I'm currently interested on the applications of multi-model language models, onboard computing for machine learning, and ways to make these algorithms more efficient for embedded applications.
+author:
+  name: Radi Akbar
+  email: kadimasha123@gmail.com
+# Description of the webstie
+description: >
+  This is a personal website of Radi Akbar
+  
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
