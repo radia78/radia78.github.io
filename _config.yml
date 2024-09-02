@@ -20,7 +20,4 @@ minima:
   skin: classic
   date_format: "%b-%d-%Y"
   social_links:
-    - {
-        platform: [linkedin, email],       
-        user_url: [https://www.linkedin.com/in/radia78/", makbar2@wisc.edu]
-      }
+    - {platform: linkedin,       user_url: https://www.linkedin.com/in/radia78/" }
