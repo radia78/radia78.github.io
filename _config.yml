@@ -13,7 +13,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - .md
+  - about_me.md
   - projects.md
 
 minima:

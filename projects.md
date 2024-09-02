@@ -9,3 +9,6 @@ Updated the original transformers with the latest state-of-the-art components su
 
 # [Real Time Semantic Segmentation](https://github.com/radia78/Object-Segmentation)
 Implemented the LR-ASPP semantic segmentation model in C++ using the Torchscript framework initially, before switching to ONNX Runtime framework to boost the deployment performance from an average of 6 FPS to an average of 18 FPS on the camera feed.
+
+# [Personal Finance Tracker API]
+TBA (But basically its an API connected to notion that allows people to track their spending, assets, and liabilities. I'm building this in part because I'm bad at budgeting.)
