@@ -6,7 +6,8 @@ layout: home
   <img src="assets/img/prof_pic.jpg" alt="Profile Image" style="max-width: 200px;">
   <p>
     <!-- Email Icon -->
-    <a href="mailto:makbar2@wisc.edu" style="font-size: 10px;">makbar2[at]wisc[dot]edu</a>
+    <a href="mailto:makbar2@wisc.edu" style="font-size: 11px;">makbar2[at]wisc[dot]edu</a><br>
+    <a href="https://linkedin.com/in/radia78" style="font-size: 11px;">Linkedin</a><br>
   </p>
 </div>
 
