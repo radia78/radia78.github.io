@@ -2,5 +2,5 @@ theme: minima
 title: Radi Akbar
 description: Hello
 header_pages:
-  - about.md
+  - bio.md
   - projects.md
