@@ -7,7 +7,6 @@ layout: home
   <p>
       <a href="mailto:makbar2@wisc.edu">makbar2@wisc.edu</a> | 
       <a href="https://linkedin.com/in/radia78/">Linkedin</a> |
-      Madison, WI, 53715
   </p>
 </div>
 
