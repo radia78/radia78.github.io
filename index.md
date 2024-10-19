@@ -9,11 +9,6 @@ layout: home
     <a href="mailto:makbar2@wisc.edu">
       <i class="fas fa-envelope"></i>
     </a>
-
-    <!-- Linkedin Icon -->
-    <a href="https://linkedin.com/in/radia78/" target="_blank">
-      <i class="fab fa-linkedin"></i>
-    </a>
   </p>
 </div>
 
