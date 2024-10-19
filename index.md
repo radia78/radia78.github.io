@@ -6,7 +6,7 @@ layout: home
   <img src="assets/img/prof_pic.jpg" alt="Profile Image" style="max-width: 200px;">
   <p>
       <a href="mailto:makbar2@wisc.edu">makbar2@wisc.edu</a> | 
-      <a href="https://linkedin.com/in/radia78/">Linkedin</a> |
+      <a href="https://linkedin.com/in/radia78/">Linkedin</a>
   </p>
 </div>
 
