@@ -8,6 +8,7 @@ layout: home
     Madison, WI 53715<br>
     <a href="mailto:makbar2@wisc.edu" style="font-size: 11px;"><strong>makbar2[at]wisc[dot]edu</strong></a><br>
     <a href="https://linkedin.com/in/radia78" style="font-size: 11px;"><strong>Linkedin</strong></a><br>
+    <a href="https://github.com/radia78" style="font-size: 11px"><strong>GitHub</strong></a>
   </p>
 </div>
 
