@@ -6,9 +6,7 @@ layout: home
   <img src="assets/img/prof_pic.jpg" alt="Profile Image" style="max-width: 200px;">
   <p>
     <!-- Email Icon -->
-    <a href="mailto:makbar2@wisc.edu">
-      <i class="fas fa-envelope"></i>
-    </a>
+    <a href="mailto:makbar2@wisc.edu">makbar2[at]wisc[dot]edu </a>
   </p>
 </div>
 
