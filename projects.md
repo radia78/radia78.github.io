@@ -4,4 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-This is a projects page
+# Machine Learning Marathon 2024: Infected Tomato Leaf - Vein Segmentation
+
+# Transformers 2
