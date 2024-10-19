@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div style="float: right; margin-left: 11px;">
+<div style="float: right; margin-left: 11px; text-align: right;">
   <img src="assets/img/prof_pic.jpg" alt="Profile Image" style="max-width: 200px;">
   <p>
     Madison, WI 53715<br>
