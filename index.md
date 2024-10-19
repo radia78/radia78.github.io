@@ -2,10 +2,10 @@
 layout: home
 ---
 
-<div style="float: right; margin-left: 15px;">
+<div style="float: right; margin-left: 11px;">
   <img src="assets/img/prof_pic.jpg" alt="Profile Image" style="max-width: 200px;">
   <p>
-    <!-- Email Icon -->
+    Madison, WI 53715
     <a href="mailto:makbar2@wisc.edu" style="font-size: 11px;">makbar2[at]wisc[dot]edu</a><br>
     <a href="https://linkedin.com/in/radia78" style="font-size: 11px;">Linkedin</a><br>
   </p>
