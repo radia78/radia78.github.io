@@ -1,4 +1,11 @@
-theme: minima
+markdown: kramdown
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+
+# Add Font Awesome
+google_fonts: 
+  - family: 'Open+Sans'
 title: Radi Akbar
 description: Hello
 header_pages:
