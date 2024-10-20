@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### [Infected Tomato Leaf - Vein Segmentation](projects/leaf_veins.md)
-<img src="assets/img/sample_submissions.jpg" alt="Alt Text" style="width:50%; height:auto;">
+<img src="assets/img/submission_results.jpg" alt="Alt Text" style="width:50%; height:auto;">
 
 ### Transformers 2
 TBA
