@@ -12,26 +12,22 @@ layout: home
   </p>
 </div>
 
+# About
 I'm currently a second year master's student studying data science at the University of Wisconsin-Madison. Currently I'm interested in applied machine learning, particularly LLMs and assesing the quality of LLM generated content with little to no human supervision. In my free time, I like to go on on hikes, running, swimming, and playing the video game Civilization 6 (and never finishing a game).
 
-<div style="display: flex; gap: 20px;">
+# Recent Projects
+* [Infected Tomato Leaf - Vein Segmentation](https://github.com/radia78/rotten-tomatoes-mlm24)
+* [Transformer 2.0](https://github.com/radia78/Transformer2)
 
-<div style="flex: 1;">
+# Technical Skills
+Languages: Python, Go, C/C++, SQL | Statistics/Data Analysis: Pandas, Matplotlib, Scipy, tidyverse 
+Machine Learning: PyTorch, ONNX, HuggingFace, Ollama, Scikit-learn, Numpy, LangChain/LangGraph
+Systems: Spark, Hadoop, Cassandra, Kafka, Docker, Kubernetes | Cloud: GCP (Vertex, BigQuery, Compute Engine), AWS (Sagemaker)
 
-### Column 1
-- Item 1
-- Item 2
-- Item 3
+# Education
+* M.Sc in Data Science - *University of Wisconsin, Madison*
+* B.Sc in Economics - *University of Michigan, Ann Arbor*
 
-</div>
-
-<div style="flex: 1;">
-
-### Column 2
-- Item A
-- Item B
-- Item C
-
-</div>
-
-</div>
+# Professional Experience
+* Machine Learning Intern - *American Family Insurance*
+* Data and Policy Analyst II - *Acumen LLC*

@@ -7,7 +7,3 @@ plugins:
 google_fonts: 
   - family: 'Open+Sans'
 title: Radi Akbar
-description: Hello
-header_pages:
-  - cv.md
-  - projects.md
