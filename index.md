@@ -12,6 +12,26 @@ layout: home
   </p>
 </div>
 
-I'm currently a Master's student studying data science at the University of Wisconsin-Madison. I'm interested in applied machine learning and big data systems and combining them both to deploy research solutions at scale. 
+I'm currently a second year master's student studying data science at the University of Wisconsin-Madison. Currently I'm interested in applied machine learning, particularly LLMs and assesing the quality of LLM generated content with little to no human supervision. In my free time, I like to go on on hikes, running, swimming, and playing the video game Civilization 6 (and never finishing a game).
 
-I obtained my Bachelor's degree in Honors Economics from the University of Michigan. I went on to work as a statistical programmer for Acumen, LLC, a healthcare policy consulting firm where I developed data pipelines to process Medicaid data for various analysis.
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+
+### Column 1
+- Item 1
+- Item 2
+- Item 3
+
+</div>
+
+<div style="flex: 1;">
+
+### Column 2
+- Item A
+- Item B
+- Item C
+
+</div>
+
+</div>

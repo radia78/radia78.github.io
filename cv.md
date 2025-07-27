@@ -15,14 +15,8 @@ permalink: /cv/
 *A.A.*
 
 ### Work Experience
-**University of Wisconsin, Madison**<br>
-*Teaching Assistant*
+**American Family Insurance**<br>
+*Machine Learning Intern*
 
 **Acumen LLC**<br>
 *Data & Policy Analyst - Statistical Programmer*
-
-**University of Michigan, Ann Arbor**<br>
-*Academic Success Coach*
-
-**Green River College**<br>
-*Math Learning Center Tutor*
