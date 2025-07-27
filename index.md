@@ -13,16 +13,18 @@ layout: home
 </div>
 
 # About
-I'm currently a second year master's student studying data science at the University of Wisconsin-Madison. Currently I'm interested in applied machine learning, particularly LLMs and assesing the quality of LLM generated content with little to no human supervision. In my free time, I like to go on on hikes, running, swimming, and playing the video game Civilization 6 (and never finishing a game).
+I'm currently a second year master's student studying data science at the University of Wisconsin-Madison. I have a broad interest in machine learning but leaning towards human out-of-the-loop training, synthetic data, and evaluation metrics. In my free time, I like to go on on hikes, running, swimming, and playing the video game Civilization 6 (and never finishing a game).
 
 # Recent Projects
 * [Infected Tomato Leaf - Vein Segmentation](https://github.com/radia78/rotten-tomatoes-mlm24)
 * [Transformer 2.0](https://github.com/radia78/Transformer2)
 
 # Technical Skills
-Languages: Python, Go, C/C++, SQL | Statistics/Data Analysis: Pandas, Matplotlib, Scipy, tidyverse 
-Machine Learning: PyTorch, ONNX, HuggingFace, Ollama, Scikit-learn, Numpy, LangChain/LangGraph
-Systems: Spark, Hadoop, Cassandra, Kafka, Docker, Kubernetes | Cloud: GCP (Vertex, BigQuery, Compute Engine), AWS (Sagemaker)
+* **Languages**: Python, Go, C/C++, SQL
+* **Data Analysis**: Pandas, Matplotlib, Scipy, tidyverse 
+* **Machine Learning**: PyTorch, ONNX, HuggingFace, Ollama, Scikit-learn, Numpy, LangChain/LangGraph
+* **Systems**: Spark, Hadoop, Cassandra, Kafka, Docker, Kubernetes
+* **Cloud**: GCP (Vertex, BigQuery, Compute Engine), AWS (Sagemaker)
 
 # Education
 * M.Sc in Data Science - *University of Wisconsin, Madison*
