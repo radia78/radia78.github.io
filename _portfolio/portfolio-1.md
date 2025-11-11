@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Infected Tomato Leaf Vein Segmentation"
+excerpt: "ML+X 2024 Competition, our team won 1st place with the highest IOU"
 collection: portfolio
 ---
 
