@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-nonlinear-optimization-notes",
+        },{id: "post-decomposing-llms",
+        
+          title: "Decomposing LLMs",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/decomposing-llms/";
+          
+        },
+      },{id: "post-nonlinear-optimization-notes",
         
           title: "Nonlinear Optimization Notes",
         
